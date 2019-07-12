@@ -1,6 +1,9 @@
 # Jiepai
 
 Jiepai Pictures of Toutiao
+## 2019/7/12
+解决了返回data为空、爬取大图、以title命名文件的bug
+by https://github.com/Python3WebSpider/Jiepai/issues/21
 
 ## 2018/8/21 更新
 
